@@ -1,0 +1,78 @@
+
+.s1{
+    background-image: url(https://jolly-kalam-23776e.netlify.app/mytunes/img/showcase.jpeg);
+    height: 500px;
+    width:100%;
+    background-size: cover;
+    
+}
+.d1{
+    background-color: rgb(35, 34, 34);
+   gap: 50px;
+   height: 30px;
+   
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    margin: 40px;
+   
+}
+body{
+    height: 100vh;
+    width: 100%;
+    color: aliceblue;
+}
+.s2{
+    
+    background-color: rgb(29, 28, 28);
+    height: 950px;
+}
+button{
+    background-color: red;
+    height: 50px;
+    width: 150px;
+    border: 1px solid red;
+    color: aliceblue;
+}
+.s3{
+    background-color: white;
+    height: 1040px;
+    color: black;
+}
+.b1{
+    background-color: rgb(5, 5, 63);
+    height: 50px;
+    width: 150px;
+    border: 1px solid rgb(8, 8, 100);
+    color: aliceblue;
+}
+.s4{
+    background-image: url(https://jolly-kalam-23776e.netlify.app/mytunes/img/section-bg.jpeg);
+    background-size: cover;
+   color: white;
+   height: 500px;
+
+}
+.s5{
+    background-color: white;
+    color: black;
+    height: 300px;
+    padding-left: 220px;
+    padding-right: 50px;
+  
+}
+.d2{
+    display: flex;
+    margin: 40px;
+}
+.d3{
+    display: flex;
+    gap: 100px;
+    margin-left: 200px;
+
+   
+}
+.s6{
+    height: 300px;
+}
